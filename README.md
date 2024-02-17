@@ -1,4 +1,4 @@
-![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczF4ajZuMThsOWExeDYwa3MxMmp3bWxhdjRqbDBhYXZpNGZoODA1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif)
+![MasterHead](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
 
 <h1 align="center">Hi 👋, I'm Guga Kobakhidze</h1>
 <h3 align="center">A passionate frontend developer from Georgia</h3>
