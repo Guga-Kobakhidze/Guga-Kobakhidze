@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Guga Kobakhidze</h1>
 <h3 align="center">A passionate frontend developer from Georgia</h3>
-<img align="right" alt="Coding" width=400 border-radius=20 src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
+<img align="right" alt="Coding" width=400 border-radius=20 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczF4ajZuMThsOWExeDYwa3MxMmp3bWxhdjRqbDBhYXZpNGZoODA1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 # 💫 About Me:
 🔭 I’m currently working on Unilab<br>🔭 I’m currently working on Making science Sweeft<br>🌱 I’m currently learning Next.js, MySQL, JAVA, TypeScript<br>📫 How to reach me gugakobakhidze0@gmail.com
