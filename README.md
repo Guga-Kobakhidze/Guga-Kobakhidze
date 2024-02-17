@@ -1,4 +1,4 @@
-![MasterHead]([https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczF4ajZuMThsOWExeDYwa3MxMmp3bWxhdjRqbDBhYXZpNGZoODA1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif))
+![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczF4ajZuMThsOWExeDYwa3MxMmp3bWxhdjRqbDBhYXZpNGZoODA1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Guga Kobakhidze</h1>
 <h3 align="center">A passionate frontend developer from Georgia</h3>
