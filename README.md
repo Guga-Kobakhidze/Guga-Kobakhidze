@@ -2,11 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Guga Kobakhidze</h1>
 <h3 align="center">A passionate frontend developer from Georgia</h3>
-<img align="right" alt="Coding" style="width: 350px; border-radius: 20px" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
+<img align="right" alt="Coding" width=400 border-radius=20 src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
 
 # 💫 About Me:
 🔭 I’m currently working on Unilab<br>🔭 I’m currently working on Making science Sweeft<br>🌱 I’m currently learning Next.js, MySQL, JAVA, TypeScript<br>📫 How to reach me gugakobakhidze0@gmail.com
-<p align="left"> <img width="350" src="https://komarev.com/ghpvc/?username=guga-kobakhidze&label=Profile%20views&color=0e75b6&style=flat" alt="guga-kobakhidze" /> </p>
+<p align="left"> <img width="300" src="https://komarev.com/ghpvc/?username=guga-kobakhidze&label=Profile%20views&color=0e75b6&style=flat" alt="guga-kobakhidze" /> </p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61554807608260) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gugakobaxiddze) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/GugaKobakhidze) 
