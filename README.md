@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.prod.website-files.com/659f77ad8e06050cc27ed531/65ef63f6bd30ab838939a4ae_Developer%20productivity%20tools%202024.webp)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif)
 
 <h1 align="center">Hi 👋, I'm Guga Kobakhidze</h1>
 <h3 align="center">A passionate frontend developer from Georgia</h3>
